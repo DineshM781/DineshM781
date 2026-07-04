@@ -40,31 +40,6 @@ $ cat tech_stack.txt
 | 🌐 Frontend | HTML • CSS |
 | ⚙️ Tools | Git • GitHub • VS Code • Jupyter Notebook |
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--                 GITHUB STATS                    -->
-<!-- ═══════════════════════════════════════════════ -->
-
-```bash
-$ git summary
-```
-
-<p align="center">
-
-<img src="./profile/stats.svg" height="170"/>
-
-<img src="./profile/top-langs.svg" height="170"/>
-
-</p>
-
-```bash
-$ achievements
-```
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DineshM781&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
 
 <!-- ═══════════════════════════════════════════════ -->
 <!--              CONTRIBUTION SNAKE                 -->
@@ -88,39 +63,6 @@ $ ./run_snake_animation.sh
 <!-- ═══════════════════════════════════════════════ -->
 <!--               CONNECT SECTION                   -->
 <!-- ═══════════════════════════════════════════════ -->
-
-```bash
-$ tree featured_projects/
-```
-
-| Project | Description |
-|---------|-------------|
-| 🤖 AI Powered Roadmap Generator | Generates personalized AI learning roadmaps |
-| 🐄 Image Classifier | Cattle & Buffalo Breed Classification using CNN |
-| 🎮 Offline Akinator | AI Guessing Game powered by Ollama |
-| 🎥 AI YouTube Summarizer | Summarizes YouTube videos |
-| ✋ GesturePen | Hand Gesture Drawing using OpenCV |
-| 🤖 Karon AI Assistant | Local AI Assistant |
-
-<p align="center">
-
-<a href="https://github.com/DineshM781/image-classifier-cow-breed-types">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=DineshM781&repo=image-classifier-cow-breed-types&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/DineshM781/Gesturepen">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=DineshM781&repo=Gesturepen&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/DineshM781/AI_powered_Roadmap_creator-">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=DineshM781&repo=AI_powered_Roadmap_creator-&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/DineshM781/Akinator">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=DineshM781&repo=Akinator&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
 
 ```bash
 $ ping dinesh --social
