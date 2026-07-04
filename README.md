@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&background=1A1B2700&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Dinesh+%F0%9F%91%8B;Full+Stack+Developer;AI+%2F+ML+Explorer;Building+cool+stuff+with+code;Always+learning%2C+always+shipping" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&background=1A1B2700&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Dinesh+%F0%9F%91%8B;Aspiring+Data+Scientist;AI+%2F+ML+Explorer;Building+cool+stuff+with+code;Always+learning%2C+always+shipping" alt="Typing SVG" />
 
 <!-- ═══════════════════════════════════════════════ -->
 <!--                  ABOUT SECTION                  -->
@@ -34,19 +34,23 @@ $ ls ./skills/
 
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=js,ts,python,java,php&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,java&theme=dark)](https://skillicons.dev)
 
 **Frontend**
 
-[![Frontend](https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css&theme=dark)](https://skillicons.dev)
 
-**Backend & Tools**
+**Tools**
 
-[![Tools](https://skillicons.dev/icons?i=nodejs,git,github,vscode,linux&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github&theme=dark)](https://skillicons.dev)
+
+**Data Analytics**
+
+[![Data Analytics](https://skillicons.dev/icons?i=numpy,pandas,matplotlib,powerbi,EDA&theme=dark)](https://skillicons.dev)
 
 **AI / ML**
 
-[![AI](https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark)](https://skillicons.dev)
+[![AI](https://skillicons.dev/icons?i=Scikit-learn,tensorflow,pytorch&theme=dark)](https://skillicons.dev)
 
 ---
 
@@ -66,7 +70,7 @@ $ git log --stat DineshM781
 <br/>
 
 <!-- Streak Stats (demolab is stable) -->
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=1A1B27&stroke=7AA2F7&ring=BB9AF7&fire=FF9E64&currStreakNum=C0CAF5&sideNums=C0CAF5&currStreakLabel=7AA2F7&sideLabels=7AA2F7&dates=565F89" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=DineshM781&theme=tokyonight&hide_border=true&background=1A1B27&stroke=7AA2F7&ring=BB9AF7&fire=FF9E64&currStreakNum=C0CAF5&sideNums=C0CAF5&currStreakLabel=7AA2F7&sideLabels=7AA2F7&dates=565F89" alt="GitHub Streak" />
 
 ---
 
@@ -80,11 +84,11 @@ $ ./run_snake_animation.sh
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+    srcset="https://raw.githubusercontent.com/DineshM781/DineshM781/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+    srcset="https://raw.githubusercontent.com/DineshM781/DineshM781/output/github-contribution-grid-snake.svg" />
   <img alt="Contribution Snake" 
-    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+    src="https://raw.githubusercontent.com/DineshM781/DineshM781/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
@@ -97,10 +101,8 @@ $ ./run_snake_animation.sh
 $ ping dinesh --social
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/YOUR_DEVTO)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dinesh-mm)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhonidinesh798@gmail.com)
 
 <br/>
 
