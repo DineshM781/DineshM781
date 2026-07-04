@@ -37,8 +37,6 @@ $ cat tech_stack.txt
 | 💻 Languages | Python • Java • SQL |
 | 📊 Data Analytics | Pandas • NumPy • Matplotlib • Power BI |
 | 🤖 AI / ML | Scikit-learn • TensorFlow • PyTorch • OpenCV |
-| 🧠 Gen AI | Ollama • LangChain • Hugging Face • Transformers |
-| 🗄 Database | PostgreSQL • MySQL |
 | 🌐 Frontend | HTML • CSS |
 | ⚙️ Tools | Git • GitHub • VS Code • Jupyter Notebook |
 
