@@ -29,30 +29,18 @@ Motto      : "Ship it, then improve it"
 <!-- ═══════════════════════════════════════════════ -->
 
 ```bash
-$ ls ./skills/
+$ cat tech_stack.txt
 ```
 
-**Languages**
-
-[![Languages](https://skillicons.dev/icons?i=python,java&theme=dark)](https://skillicons.dev)
-
-**Frontend**
-
-[![Frontend](https://skillicons.dev/icons?i=html,css&theme=dark)](https://skillicons.dev)
-
-**Tools**
-
-[![Tools](https://skillicons.dev/icons?i=git,github&theme=dark)](https://skillicons.dev)
-
-**Data Analytics**
-
-[![Data Analytics](https://skillicons.dev/icons?i=numpy,pandas,matplotlib,powerbi,EDA&theme=dark)](https://skillicons.dev)
-
-**AI / ML**
-
-[![AI](https://skillicons.dev/icons?i=Scikit-learn,tensorflow,pytorch&theme=dark)](https://skillicons.dev)
-
----
+| Category | Technologies |
+|-----------|--------------|
+| 💻 Languages | Python • Java • SQL |
+| 📊 Data Analytics | Pandas • NumPy • Matplotlib • Power BI |
+| 🤖 AI / ML | Scikit-learn • TensorFlow • PyTorch • OpenCV |
+| 🧠 Gen AI | Ollama • LangChain • Hugging Face • Transformers |
+| 🗄 Database | PostgreSQL • MySQL |
+| 🌐 Frontend | HTML • CSS |
+| ⚙️ Tools | Git • GitHub • VS Code • Jupyter Notebook |
 
 <!-- ═══════════════════════════════════════════════ -->
 <!--                 GITHUB STATS                    -->
